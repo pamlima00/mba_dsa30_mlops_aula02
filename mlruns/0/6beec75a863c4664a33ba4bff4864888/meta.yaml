@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6beec75a863c4664a33ba4bff4864888/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6beec75a863c4664a33ba4bff4864888
+run_name: chill-squid-310
+run_uuid: 6beec75a863c4664a33ba4bff4864888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747774873873
+status: 1
+tags: []
+user_id: pam

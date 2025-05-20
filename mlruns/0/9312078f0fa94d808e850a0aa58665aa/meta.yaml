@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9312078f0fa94d808e850a0aa58665aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9312078f0fa94d808e850a0aa58665aa
+run_name: unleashed-boar-963
+run_uuid: 9312078f0fa94d808e850a0aa58665aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747774868521
+status: 1
+tags: []
+user_id: pam

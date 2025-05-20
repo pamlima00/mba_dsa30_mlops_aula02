@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bc6222180b2449e0b80e6fa2002db706/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc6222180b2449e0b80e6fa2002db706
+run_name: fearless-eel-549
+run_uuid: bc6222180b2449e0b80e6fa2002db706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747776661207
+status: 1
+tags: []
+user_id: pam
